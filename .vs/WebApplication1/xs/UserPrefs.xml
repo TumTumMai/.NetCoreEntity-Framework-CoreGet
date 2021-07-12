@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7F454608-9E3F-4E7B-9DA9-F5DFEC227875}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/docker-compose.yml">
+    <Files>
+      <File FileName="WebApplication1/docker-compose.yml" Line="11" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
